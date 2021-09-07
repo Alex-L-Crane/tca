@@ -1,0 +1,4 @@
+baseURL = "http://tca.earth/"
+languageCode = "en-us"
+title = "TCA - The Cruelest Animal"
+theme = "ananke"
